@@ -12,6 +12,7 @@ public enum Cell {
     LIVE_CELL("+" ), DEAD_CELL(".");
 
 
+
     private String symbol;
 
     private Cell(final String initialSymbol) {
